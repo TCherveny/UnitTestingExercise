@@ -73,10 +73,11 @@ namespace UnitTestingExercise.Tests
         public void YourMethodName()
         {
             //Arrange
-
+            var expected = 'A';
             //Act
 
             //Assert
+            Assert.Equal.(expected, actual);
 
         }
 
